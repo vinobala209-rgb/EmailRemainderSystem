@@ -22,7 +22,7 @@ import {
   SelectValue,
 } from "@/components/ui/select";
 import { format } from "date-fns";
-
+//interface for editReminderDialog
 interface EditReminderDialogProps {
   reminder: any;
   open: boolean;
